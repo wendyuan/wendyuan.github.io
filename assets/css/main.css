@@ -2873,7 +2873,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("https://lh5.googleusercontent.com/-JfLLnXjL4sU/Up1qTtKde1I/AAAAAAAADmU/Z7ARH0FMdBk/w1040-h652/anime%2Bnight%2Bcool%2B5%2Bstars%2Bphistars%2Bworthy%2Bwallpaper%2Bbicycle%2Bclouds%2Bgrass%2Bkazeno%2Bkiss%2Boriginal%2Bsilhouette%2Bsky%2Bsummer%2Bsunset.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2883,7 +2883,7 @@
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background: url("images/overlay.png"), url("http://p1.pichost.me/i/72/1972062.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2892,7 +2892,7 @@
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("http://photo.880sy.com/2/3066/117609.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
